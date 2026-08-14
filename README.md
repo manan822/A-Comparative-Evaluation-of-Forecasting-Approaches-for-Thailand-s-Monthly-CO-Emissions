@@ -1,4 +1,9 @@
 # Monthly CO₂ Emissions Forecasting for Thailand
+# Best Result
+
+**Prophet achieved the best out-of-sample performance with a MAPE of 1.88%.**
+
+![Model Comparison](results/model_comparison_mape.png)
 
  # Project Overview
 
